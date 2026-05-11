@@ -1,0 +1,7 @@
+"""
+AliasForge - Lightweight Terminal Command Alias Intelligent Manager CLI
+
+A powerful CLI tool for managing shell aliases with intelligent features.
+"""
+
+__version__ = "1.0.0"
